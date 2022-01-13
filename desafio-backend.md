@@ -30,8 +30,7 @@ No início desta entrevista, **você receberá um novo documento**, contento os 
 
 Nesta etapa, iremos apresentar alguns problemas nos quais iremos testar e avaliar as habilidades técnicas do candidato em relação a um conjunto de requisitos usando um quadro branco.
 
-Caso nunca tenha feito este tipo de entrevista, te aconselhamos a dar uma olhada no Youtube
-Canal Recomendado: [Exponent](https://www.youtube.com/channel/UCjm_qVkCPjOVDz9BWjNqO9A)
+Caso nunca tenha feito este tipo de entrevista, te aconselhamos a dar uma olhada no Youtube (Recomendação: [Exponent](https://www.youtube.com/channel/UCjm_qVkCPjOVDz9BWjNqO9A))
 
 Recomendamos também tire um tempo para relembrar alguns conceitos e se preparar melhor para a entrevista.
 Material Recomendado: 
