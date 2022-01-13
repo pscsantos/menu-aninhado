@@ -28,7 +28,18 @@ No início desta entrevista, **você receberá um novo documento**, contento os 
 
 ### Etapa 3 - Quadro Branco
 
-Nesta etapa, iremos apresentar 3 *cases* nos quais testamos e avaliamos as habilidades técnicas do candidato em relação a um conjunto de requisitos usando um quadro branco. 
+Nesta etapa, iremos apresentar alguns problemas nos quais iremos testar e avaliar as habilidades técnicas do candidato em relação a um conjunto de requisitos usando um quadro branco.
+
+Caso nunca tenha feito este tipo de entrevista, te aconselhamos a dar uma olhada no Youtube
+Canal Recomendado: [Exponent](https://www.youtube.com/channel/UCjm_qVkCPjOVDz9BWjNqO9A)
+
+Recomendamos também tire um tempo para relembrar alguns conceitos e se preparar melhor para a entrevista.
+Material Recomendado: 
+- [System Desgin Prime](https://github.com/donnemartin/system-design-primer)
+- [A Dev' Story](https://www.youtube.com/channel/UCGjZSsyZY1hce8SsGV1_IHg)
+- [Introduction to AWS Lambda & Serverless Applications](https://www.youtube.com/watch?v=EBSdyoO3goc)
+- [Designing Serverless Application on AWS](https://www.youtube.com/watch?v=s7nXSGleGwY)
+
 ​
 ### Final
 Após a avaliação, os seus resultados serão encaminhados de volta para a equipe técnica, e eles irão dar continuidade ao seu processo seletivo juntamente com o RH da Paketá.
