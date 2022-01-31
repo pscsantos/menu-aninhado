@@ -28,9 +28,9 @@ No início desta entrevista, **você receberá um novo documento**, contento os 
 
 ### Etapa 3 - Quadro Branco
 
-Nesta etapa, iremos apresentar alguns problemas nos quais iremos testar e avaliar as habilidades técnicas do candidato em relação a um conjunto de requisitos usando um quadro branco.
+Nesta etapa, também conhecida como Design System Interview, você será convidado à falar um pouco sobre suas experiências passadas com design de soluções e arquitetura de sistemas. Também será apresentado um problema no qual candidato deverá propor o design da solução.
 
-Caso nunca tenha feito este tipo de entrevista, te aconselhamos a dar uma olhada no Youtube (Recomendação: [Exponent](https://www.youtube.com/channel/UCjm_qVkCPjOVDz9BWjNqO9A))
+Caso nunca tenha feito este tipo de entrevista, te aconselhamos a dar uma olhada no Youtube (Recomendação: [Exponent - System Design Interview Prep](https://www.youtube.com/channel/UCjm_qVkCPjOVDz9BWjNqO9A))
 
 Recomendamos também tire um tempo para relembrar alguns conceitos e se preparar melhor para a entrevista.
 Material Recomendado: 
