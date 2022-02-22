@@ -1,5 +1,4 @@
 import express from 'express'
-
 import User from '../controllers/user'
 import validation from '../validation/user'
 
