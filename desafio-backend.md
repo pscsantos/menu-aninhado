@@ -6,13 +6,17 @@ O objetivo deste desafio é avaliar os seus conhecimentos em arquitetura de cód
 ## Etapas
 ### Etapa 1 - Ambientação
 ​
-​Marcaremos com você o dia do seu *live-coding*: uma entrevista técnica onde, a partir do *backend-boiler-plate* encontrado neste repositório, você receberá instruções para conclusão do seu desafio, e deverá resolvê-lo ao vivo com um avaliador.
+Clone este repositório, leia o *readme* do *backend-boiler-plate*, estude a arquitetura apresentada deste projeto e realize alguns testes nos endpoints existentes para se ambientar com o código .
 
-Clone este repositório, leia o *readme* do *backend-boiler-plate*, estude a arquitetura apresentada deste projeto e realize alguns testes para verificar que o seu ambiente está funcional, pois no dia do desafio você irá desenvolver o código a partir deste. No início desta entrevista, **você receberá novas instruções**, contento os detalhes técnicos para a realização da etapa 2 do desafio.
+1. Se você optou por realizar o **Live-Coding**, certifique-se que o *backend-boiler-plate* esteja funcional no seu ambiente, pois você utilizá-lo-á na próxima etapa.
+2. Se você optou por realizar o **desafio sozinho**, você receberá um link com intruções para o mesmo. Você deve implementar os requisitos solicitados neste documento utilizando o código do *backend-boiler-plate* deste repositório, ou seja, você irá **incrementar/adicionar as funcionalidades solicitadas** ao *boiler-plate*.
 
-### Etapa 2 - Live Coding
+Independete da sua escolha, marcaremos um horário para que você possa seguir para a próxima etapa: a **entrevista**.
 
-Será apresentada uma API a ser desenvolvida semelhante à que existe no *boiler-plate*. Você terá aproximadamente uma hora e meia para desevolvê-la. A consulta à internet durante esta etapa é permitida. Você também pode ser questionado sobre os conceitos aplicados durante o desafio. No início do *live-coding*, você poderá criar um *fork* do repositório para que possamos avaliar o projeto posteriormente. Após o desafio, avaliaremos o código e entraremos em contato com você para marcarmos o dia da etapa 3.
+### Etapa 2 - Entrevista
+
+1. Se você optou por realizar o **Live-Coding**, você receberá o desafio no início desta entrevista e terá aproximadamente *uma hora e meia* para concluí-lo.
+2. Se você optou por realizar o **desafio sozinho**, este será o momento em que revisaremos o mesmo. Você será questionado sobre os conceitos aplicados durante o desafio. Esta entrevista deve demorar no máximo *uma hora*.
 
 ### Etapa 3 - Quadro Branco
 
