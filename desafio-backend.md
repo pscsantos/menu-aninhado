@@ -4,8 +4,9 @@
 O objetivo deste desafio é avaliar os seus conhecimentos em arquitetura de código, raciocínio lógico, *clean code* e modelagem de dados.
 
 ## Etapas
+
 ### Etapa 1 - Ambientação
-​
+
 Clone este repositório, leia o *readme* do *backend-boiler-plate*, estude a arquitetura apresentada deste projeto e realize alguns testes nos endpoints existentes para se ambientar com o código .
 
 1. Se você optou por realizar o **Live-Coding**, certifique-se que o *backend-boiler-plate* esteja funcional no seu ambiente, pois você utilizá-lo-á na próxima etapa.
